@@ -12,24 +12,24 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 Technologies I've been learning and using so far (alphabetical order) :
 
 - Programming languages : <br />
-    [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](https://github.com/haohoangofficial/GoogleAppsScript) 
-    [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](https://github.com/haohoangofficial/WooCommerceFeatures)
-    [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)](https://github.com/haohoangofficial/MicrosoftCoursesEbook)
+    [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=for-the-badge&logo=javascript&logoColor=DD9C25)](https://github.com/haohoangofficial/GoogleAppsScript) 
+    [![PHP](http://img.shields.io/badge/-PHP-eee?style=for-the-badge&logo=php&logoColor=4951aa)](https://github.com/haohoangofficial/WooCommerceFeatures)
+    [![Python](http://img.shields.io/badge/-Python-eee?style=for-the-badge&logo=python&logoColor=F7BD2F)](https://github.com/haohoangofficial/MicrosoftCoursesEbook)
 
 - Frontend : <br />
-    [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)]()
-    [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)]()
-    [![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=flat-square&logo=wordpress&logoColor=21759B)]()
+    [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=for-the-badge&logo=bootstrap&logoColor=563D7C)]()
+    [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=for-the-badge&logo=html5&logoColor=E34F26)]()
+    [![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=for-the-badge&logo=wordpress&logoColor=21759B)]()
 
 - Backend : <br />
     [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
     [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
     [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-    [![GS](https://img.shields.io/badge/Google-Apps%20Script-green)](https://github.com/haohoangofficial/GoogleAppsScript)
+    [![GS](https://img.shields.io/badge/Google-Apps%20Script-green?style=for-the-badge)](https://github.com/haohoangofficial/GoogleAppsScript)
 
 - OS & IDE & Tools : <br />
     [![Git](http://img.shields.io/badge/-Git-eee?style=for-the-badge&logo=git&logoColor=F05032)]()
-    [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)]()
+    [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)]()
     [![Pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)]()
 
 - APIs : <br />
