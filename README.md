@@ -5,7 +5,7 @@
 
 I'm a Vietnamese guy who has a curious mind. I'd like to learn something new every day. Journey to become a data scientist.
 
-- 😍 My hobbies are [3D Modeling](https://www.autodesk.com/), [reading] and [cooking]
+- 😍 My hobbies are [3D Modeling](https://www.autodesk.com/), [reading]() and [cooking]()
 - 📚 My notes of learning at [MicrosoftCourses](https://github.com/haohoangofficial/MicrosoftCourses).
 - 💌 Contact me at [haohoangofficial@gmail.com](mailto:haohoangofficial@gmail.com).
 
