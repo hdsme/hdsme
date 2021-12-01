@@ -23,8 +23,8 @@ Technologies I've been learning and using so far (alphabetical order) :
 
 - Backend : <br />
     [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
-    [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)]()
-    [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)]()
+    [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
+    [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
     [![GS](https://img.shields.io/badge/Google-Apps%20Script-green)](https://github.com/haohoangofficial/GoogleAppsScript)
 
 - OS & IDE & Tools : <br />
