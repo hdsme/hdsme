@@ -11,7 +11,8 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 
 [![Hao's github stats](https://github-readme-stats.vercel.app/api?username=haohoangofficial)](https://github.com/haohoangofficial)
 
-{{ LANGUAGE_TEMPLATE_START }}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haohoangofficial)](https://github.com/haohoangofficial)
+
 
 Technologies I've been learning and using so far (alphabetical order) :
 
