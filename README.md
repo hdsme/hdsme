@@ -21,6 +21,7 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=for-the-badge&logo=javascript&logoColor=DD9C25)](https://github.com/haohoangofficial/GoogleAppsScript) 
     [![PHP](http://img.shields.io/badge/-PHP-eee?style=for-the-badge&logo=php&logoColor=4951aa)](https://github.com/haohoangofficial/WooCommerceFeatures)
     [![Python](http://img.shields.io/badge/-Python-eee?style=for-the-badge&logo=python&logoColor=F7BD2F)](https://github.com/haohoangofficial/MicrosoftCoursesEbook)
+    <br>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haohoangofficial&layout=compact)](https://github.com/haohoangofficial)
 - Frontend : <br />
 
