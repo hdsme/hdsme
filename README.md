@@ -9,14 +9,11 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 - 📚 My notes of learning at [MicrosoftCourses](https://github.com/haohoangofficial/MicrosoftCourses) [LinkedInLearning](https://github.com/haohoangofficial/LinkedInLearning).
 - 💌 Contact me at [haohoangofficial@gmail.com](mailto:haohoangofficial@gmail.com).
 
-[![Hao's github stats](https://github-readme-stats.vercel.app/api?username=haohoangofficial&card_width=200)](https://github.com/haohoangofficial) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haohoangofficial&layout=compact)](https://github.com/haohoangofficial)
+[![Hao's github stats](https://github-readme-stats.vercel.app/api?username=haohoangofficial&card_width=200)](https://github.com/haohoangofficial) 
 
-<a href="https://github.com/haohoangofficial">
-  <img src="https://github-readme-stats.vercel.app/api?username=haohoangofficial" style="max-width: 50%;"/>
-</a>
-<a href="https://github.com/haohoangofficial">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haohoangofficial&layout=compact" style="max-width: 50%;"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haohoangofficial)](https://github.com/haohoangofficial)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=COVID19DataAnalysis)](https://github.com/haohoangofficial)
+
 
 Technologies I've been learning and using so far (alphabetical order) :
 
