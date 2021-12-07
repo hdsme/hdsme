@@ -14,6 +14,17 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haohoangofficial&repo=COVID19DataAnalysis)](https://github.com/haohoangofficial)
 [![Hao's github stats](https://github-readme-stats.vercel.app/api?username=haohoangofficial&card_width=200)](https://github.com/haohoangofficial) 
 
+<table>
+  <tr>
+    <td>
+        <a href="https://github.com/haohoangofficial">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haohoangofficial" />
+        </a>
+    </td>
+    <td>Two</td>
+  </tr>
+</table>
+
 
 Technologies I've been learning and using so far (alphabetical order) :
 
