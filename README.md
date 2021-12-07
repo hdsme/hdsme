@@ -9,9 +9,7 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 - 📚 My notes of learning at [MicrosoftCourses](https://github.com/haohoangofficial/MicrosoftCourses) [LinkedInLearning](https://github.com/haohoangofficial/LinkedInLearning).
 - 💌 Contact me at [haohoangofficial@gmail.com](mailto:haohoangofficial@gmail.com).
 
-[![Hao's github stats](https://github-readme-stats.vercel.app/api?username=haohoangofficial)](https://github.com/haohoangofficial)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haohoangofficial)](https://github.com/haohoangofficial)
+[![Hao's github stats](https://github-readme-stats.vercel.app/api?username=haohoangofficial)](https://github.com/haohoangofficial) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haohoangofficial)](https://github.com/haohoangofficial)
 
 
 Technologies I've been learning and using so far (alphabetical order) :
