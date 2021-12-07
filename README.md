@@ -26,8 +26,6 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
             <a href="https://github.com/haohoangofficial">
             <img src="https://github-readme-stats.vercel.app/api?username=haohoangofficial" />
             </a>
-        </td>
-        <td colspan="2">
             <a href="https://github.com/haohoangofficial">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=haohoangofficial&repo=COVID19DataAnalysis" />
             </a>
