@@ -22,7 +22,7 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![PHP](http://img.shields.io/badge/-PHP-eee?style=for-the-badge&logo=php&logoColor=4951aa)](https://github.com/haohoangofficial/WooCommerceFeatures)
     [![Python](http://img.shields.io/badge/-Python-eee?style=for-the-badge&logo=python&logoColor=F7BD2F)](https://github.com/haohoangofficial/MicrosoftCoursesEbook)
     <br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haohoangofficial&layout=compact&&hide=html)](https://github.com/haohoangofficial)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haohoangofficial&layout=compact)](https://github.com/haohoangofficial)
 - Frontend : <br />
 
     [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=for-the-badge&logo=bootstrap&logoColor=563D7C)]()
