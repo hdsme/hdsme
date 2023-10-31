@@ -8,10 +8,10 @@
 I'm a Vietnamese guy who has a curious mind. I'd like to learn something new every day. Journey to become a data scientist.
 
 - 😍 My hobbies are [3D Modeling](https://www.autodesk.com/), [reading]() and [cooking]()
-- 📚 My notes of learning at [MOOC](https://github.com/haohoangofficial/notebooks).
+- 📚 My notes of learning at [MOOC](https://github.com/hdsme/notebooks).
 - 💌 Contact me at [haohoangofficial@gmail.com](mailto:haohoangofficial@gmail.com).
 
-[![Hao's github stats](https://github-readme-stats.vercel.app/api?username=haohoangofficial&card_width=200)](https://github.com/haohoangofficial)
+[![Hao's github stats](https://github-readme-stats.vercel.app/api?username=hdsme&card_width=200)](https://github.com/hdsme)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haohoangofficial)](https://github.com/haohoangofficial) -->
  
 
