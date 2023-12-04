@@ -11,10 +11,17 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 - 📚 My notes of learning at [MOOC](https://github.com/hdsme/notebooks).
 - 💌 Contact me at [haohoangofficial@gmail.com](mailto:haohoangofficial@gmail.com).
 
-[![Hao's github stats](https://github-readme-stats.vercel.app/api?username=hdsme&card_width=200)](https://github.com/hdsme)
+### 🌱 My Contributions So Far!
+[![github stats](https://github-readme-stats.vercel.app/api?username=hdsme&show_icons=true)](https://github.com/hdsme)
+<!-- [![Hao's github stats](https://github-readme-stats.vercel.app/api?username=hdsme&card_width=200)](https://github.com/hdsme) -->
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haohoangofficial)](https://github.com/haohoangofficial) -->
  
-
+### 📝 My Latest Blog Post in Medium
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hdsme/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hdsme/0" alt="Recent Article 0"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hdsme/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hdsme/1" alt="Recent Article 1"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hdsme/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hdsme/2" alt="Recent Article 2"></a> <br>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hdsme/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hdsme/3" alt="Recent Article 3"></a> <br>
 
 Technologies I've been learning and using so far (alphabetical order) :
 
