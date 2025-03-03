@@ -5,7 +5,7 @@
 [![My Notes](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://github.com/hdsme/notebooks)](https://github.com/hdsme/notebooks)
 
 
-I'm a Vietnamese guy who has a curious mind. I'd like to learn something new every day. Journey to become a data scientist.
+I'm a Vietnamese guy with a curious mind, always eager to learn something new. Currently, I'm pursuing a Master's in Computer Science on my journey to becoming a data scientist.
 
 - 😍 My hobbies are [3D Modeling](https://www.autodesk.com/), [reading]() and [cooking]()
 - 📚 My notes of learning at [MOOC](https://github.com/hdsme/notebooks).
